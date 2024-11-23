@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python app.py
+python url-service-controller.py
 ```
 
 ## Requirements
