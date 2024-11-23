@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 Open the application by running:
 ```bash
-python app.py
+python url-service-controller.py
 ```
 
 Enter a URL in the input field and click **Shorten URL**.
