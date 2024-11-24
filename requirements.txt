@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+requests>=2.25.1
+validators>=0.18.2
+pyperclip>=1.8.2
